@@ -144,7 +144,7 @@ let exampleFunction = () => {
 
   return foo + bar;
 }
-`` `
+```
 
 ---
 
